@@ -4,7 +4,7 @@ Repository for the paper ``Aligning (Medical) LLMs for (Counterfactual) Fairness
 
 Our repository is divided into two parts: eval, and mitigation.
 
-![framework](https://github.com/healthylaife/FairAlignmentLLM/blob/main/images/framework.png)
+![framework](https://github.com/healthylaife/FairAlignmentLLM/blob/main/images/framework1.png)
 The eval folder contains the code required to run the evaluation framework for each dataset presented in the paper.
 
 
